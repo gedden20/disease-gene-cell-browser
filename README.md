@@ -56,7 +56,7 @@ e. Possible biological explanation (interpretation only): RB1 is a cell-cycle ch
 
 **Screenshot 3:** 
 
-![RB1 expression with cell-type labels](images/03_cell_types.png)
+![RB1 expression with cell-type labels]()
 
 
 
